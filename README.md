@@ -8,10 +8,14 @@ NotesApp is a simple command-line application that lets you save and manage note
 
 ## Features
 
-- Add notes
+- Add a note
+- Add multiple notes at once
 - View all notes
+- Delete a note
+- Delete all notes with confirmation
 - Save notes to a text file
 - Load notes automatically
+- Handle invalid note indexes and invalid input
 
 ## Technologies
 
